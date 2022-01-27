@@ -6,5 +6,5 @@ hello, the first .txt file!
 hello, the first .txt file!
 hello, the first .txt file!
 hello, the first .txt file!
-hello, the first .txt file!
 hello, the first .txt file!master
+hello, the first .txt file!hot-fix
